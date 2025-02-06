@@ -12,8 +12,9 @@ by Patrick Lencioni
 4. **Avoidance of accountability**: ducking the responsibility to call peers on counterproductive behavior which sets low standards
    
 5. **Inattention to results**: focusing on personal success, status and ego before team success
-   
-![[Pasted image 20241029071522.png]]
+
+![image](https://github.com/user-attachments/assets/5dbcd0d2-9ffc-42d4-9a97-a57a55f34402)
+
 
 
 ## The Cascade
